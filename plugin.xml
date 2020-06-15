@@ -55,7 +55,7 @@ SOFTWARE.
                 <data android:mimeType="image/*" />
                 <data android:mimeType="video/*" />
                 <data android:mimeType="application/pdf" />
-                <data android:mimeType="text/plain" />
+                <!-- <data android:mimeType="text/plain" /> -->
                 <action android:name="android.intent.action.SEND" />
                 $ANDROID_EXTRA_ACTIONS
                 <!-- action android:name="android.intent.action.VIEW" / -->
